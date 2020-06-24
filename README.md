@@ -14,4 +14,4 @@ THEN they fall in sequential order
 WHEN they view the title element
 THEN they find a concise, descriptive title
 So I changed the code tags so that was the case
-there are comments throug out the code detailing the changes
+there are comments through out the code detailing the changes

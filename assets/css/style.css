@@ -20,6 +20,7 @@ body {
     font-size: 48px;
 }
 
+
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -40,7 +41,10 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* added hover tag*/
+a:hover{
+    color: cyan;
+}
 a {
     color: #ffffff;
     text-decoration: none;
